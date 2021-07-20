@@ -4,7 +4,9 @@ Simple overview of project
 
 ## Description
 
-this is a simple library management system
+this is a simple library management system with
+* Django
+* Django restframework
 
 ## Getting Started
 
