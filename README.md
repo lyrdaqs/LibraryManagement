@@ -19,7 +19,12 @@ this is a simple library management system
 docker-compose build
 `
 
-#### 2. run this code to run server
+#### 2. create super user for login in project
+`
+docker-compose run web python manage.py createsuperuser
+`
+
+#### 3. run this code to run server
 
 `
 docker-compose up
